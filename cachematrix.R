@@ -1,8 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
-## Finding the inverse of a matrix, using the cache if it has been precalculated
+## Put comments here that give an overall description of what your functions do
+# Finding the inverse of a matrix, using the cache if it has been precalculated
+#
 ## Write a short comment describing this function
-## makeCacheMatrix creates a special "Matrix", which is really a list containing a function to
+# makeCacheMatrix creates a special "Matrix", which is really a list containing a function to
 # set the value of the vector
 # get the value of the vector
 # set the inverse
